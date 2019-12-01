@@ -2,7 +2,7 @@
 ## Formally - README![Relative date](https://img.shields.io/date/1575184818?color=once&label=last-commit&logo=son-gelistirme)
 *Formal/Informal Writing Classification System Turkish NLP Project*
 
-### Description [![Inline docs](http://inch-ci.org/github/arcanteus/venn-acikhack-proje.svg?branch=master)](http://inch-ci.org/github/arcanteus/venn-acikhack-proje)
+### Description [![Inline docs](http://inch-ci.org/github/arcanteus/formally.svg?branch=master)](http://inch-ci.org/github/arcanteus/formally)
 
 This application provides to classify the existing text or writings as formal or informal by using the data sets in hand.
 
@@ -26,7 +26,7 @@ A web application interface is created via *HTML, CSS and Python [Flask](https:/
 * [TensorFlow](https://www.tensorflow.org/)
 * [Flask](https://pythonspot.com/flask-web-app-with-python/) 
 
-### Contributors [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/arcanteus/venn-acikhack-proje/issues)
+### Contributors [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/arcanteus/formally/issues)
 
 * Tuğrul Hakan Gençtürk [@tuhage](https://www.github.com/tuhage)
 * Hüseyin Can Kalçık [@huseyin4334](https://www.github.com/huseyin4334)
