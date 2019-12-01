@@ -1,5 +1,5 @@
 ![Formally Logo](https://i.hizliresim.com/dLAVlZ.jpg)
-## Formally - README![Relative date](https://img.shields.io/date/1575184101?color=once&label=last-commit&logo=son-gelistirme)
+## Formally - README![Relative date](https://img.shields.io/date/1575184818?color=once&label=last-commit&logo=son-gelistirme)
 *Formal/Informal Writing Classification System Turkish NLP Project*
 
 ### Description [![Inline docs](http://inch-ci.org/github/arcanteus/venn-acikhack-proje.svg?branch=master)](http://inch-ci.org/github/arcanteus/venn-acikhack-proje)
