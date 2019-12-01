@@ -1,5 +1,5 @@
 ![Formally Logo](https://i.hizliresim.com/dLAVlZ.jpg)
-## Formally - README ![Relative date](https://img.shields.io/date/1575189138?color=once&label=last-commit&logo=son-gelistirme)
+## Formally - README ![Relative date](https://img.shields.io/date/1575193681?color=once&label=last-commit&logo=son-gelistirme)
 *Formal/Informal Writing Classification System Turkish NLP Project*
 
 ### Description [![Inline docs](http://inch-ci.org/github/arcanteus/formally.svg?branch=master)](http://inch-ci.org/github/arcanteus/formally)
