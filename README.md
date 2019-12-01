@@ -1,5 +1,5 @@
 ![Formally Logo](https://i.hizliresim.com/dLAVlZ.jpg)
-## Formally - Beni Oku ![Relative date](https://img.shields.io/date/1575187818?color=once&label=last-commit&logo=son-gelistirme)
+## Formally - Beni Oku ![Relative date](https://img.shields.io/date/1575189138?color=once&label=last-commit&logo=son-gelistirme)
 *Resmi ve resmi olmayan yazıları tanıyabilen Türkçe doğal dil işleme projesi*
 
 ### Açıklama [![Inline docs](http://inch-ci.org/github/arcanteus/formally.svg?branch=master)](http://inch-ci.org/github/arcanteus/formally)
@@ -22,7 +22,7 @@ Proje Python 3 ile gerçeklemlendiği için ekteki bağlılıklarla beraber uygu
 * [Zemberek](https://github.com/ahmetaa/zemberek-nlp)
 * [Trstop](https://github.com/ahmetax/trstop)
 * [NumPy](https://numpy.org/) ve [Pandas](https://pandas.pydata.org/) kütüphaneleri 
-* [TensorFlow](https://www.tensorflow.org/)
+* [Scikit-Learn](https://scikit-learn.org/stable/)
 * [Flask](https://pythonspot.com/flask-web-app-with-python/) 
 
 ### Geliştiriciler & Destek Verenler [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/arcanteus/formally/issues)
