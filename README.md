@@ -6,6 +6,8 @@
 
 Bu uygulama elinizde elimizde veri kümelerini kullanarak kıya algoritmaları ile mevcut yazı veya yazıların resmi (formal) veya resmi olmayan (informal) olarak sınıflandırılmasını sağlamaktadır. 
 
+Formally, makale, akademik e-posta veya diğer resmi yazılarınız veya yazışmalarınızda resmi olmayan ifadeleri kolayca tespit edebileceğiniz açık kaynak kodlu Türkçe doğal dil işleme projesidir.
+
 ### Kurulum ![GitHub repo size](https://img.shields.io/github/repo-size/arcanteus/formally)
 * **İşletim Sistemleri:** macOS / OS X · Linux · Windows (Cygwin, MinGW, Visual Studio)
 * **Python Sürümü:** Python 2.7, 3.5+ (32/64 bit)
