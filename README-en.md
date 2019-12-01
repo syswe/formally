@@ -6,7 +6,7 @@
 
 This application provides to classify the existing text or writings as formal or informal by using the data sets in hand.
 
-### Installation ![GitHub repo size](https://img.shields.io/github/repo-size/arcanteus/venn-acikhack-proje)
+### Installation ![GitHub repo size](https://img.shields.io/github/repo-size/arcanteus/formally)
 * **Operation Systems:** macOS / OS X · Linux · Windows (Cygwin, MinGW, Visual Studio)
 * **Python Version:** Python 2.7, 3.5+ (32/64 bit)
 
