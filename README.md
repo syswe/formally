@@ -6,7 +6,7 @@
 
 Bu uygulama elinizde elimizde veri kümelerini kullanarak kıya algoritmaları ile mevcut yazı veya yazıların resmi (formal) veya resmi olmayan (informal) olarak sınıflandırılmasını sağlamaktadır. 
 
-### Kurulum ![GitHub repo size](https://img.shields.io/github/repo-size/arcanteus/venn-acikhack-proje)
+### Kurulum ![GitHub repo size](https://img.shields.io/github/repo-size/arcanteus/formally)
 * **İşletim Sistemleri:** macOS / OS X · Linux · Windows (Cygwin, MinGW, Visual Studio)
 * **Python Sürümü:** Python 2.7, 3.5+ (32/64 bit)
 
