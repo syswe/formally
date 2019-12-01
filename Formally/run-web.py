@@ -52,9 +52,9 @@ def handle_data():
     y_pred = loaded_model.predict(x)
 
     if y_pred  == 1:
-        y_pred = "Girdiginiz yazi resmidir (formal)."
+        y_pred = "Girdiğiniz yazı resmidir (formal)."
     else:
-        y_pred = "Girdiginiz yazi resmi degildir (informal)."
+        y_pred = "Girdiginiz yazı resmi değildir (informal)."
 
     return render_template("main_page.html", testText = y_pred,ttesx=request.form["user_input"])
 
