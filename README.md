@@ -2,7 +2,7 @@
 ## Formally - Beni Oku ![Relative date](https://img.shields.io/date/1575184818?color=once&label=last-commit&logo=son-gelistirme)
 *Resmi ve resmi olmayan yazıları tanıyabilen Türkçe doğal dil işleme projesi*
 
-### Açıklama [![Inline docs](http://inch-ci.org/github/arcanteus/venn-acikhack-proje.svg?branch=master)](http://inch-ci.org/github/arcanteus/venn-acikhack-proje)
+### Açıklama [![Inline docs](http://inch-ci.org/github/arcanteus/formally.svg?branch=master)](http://inch-ci.org/github/arcanteus/formally)
 
 Bu uygulama elinizde elimizde veri kümelerini kullanarak kıya algoritmaları ile mevcut yazı veya yazıların resmi (formal) veya resmi olmayan (informal) olarak sınıflandırılmasını sağlamaktadır. 
 
@@ -25,7 +25,7 @@ Proje Python 3 ile gerçeklemlendiği için ekteki bağlılıklarla beraber uygu
 * [TensorFlow](https://www.tensorflow.org/)
 * [Flask](https://pythonspot.com/flask-web-app-with-python/) 
 
-### Geliştiriciler & Destek Verenler [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/arcanteus/venn-acikhack-proje/issues)
+### Geliştiriciler & Destek Verenler [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/arcanteus/formally/issues)
 
 * Tuğrul Hakan Gençtürk [@tuhage](https://www.github.com/tuhage)
 * Hüseyin Can Kalçık [@huseyin4334](https://www.github.com/huseyin4334)
