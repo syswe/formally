@@ -26,7 +26,7 @@ A web application interface is created via *HTML, CSS and Python [Flask](https:/
 * [TensorFlow](https://www.tensorflow.org/)
 * [Flask](https://pythonspot.com/flask-web-app-with-python/) 
 
-### Contributors [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/arcanteus/formally/issues)
+### Contributors [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/arcanteus/formally/issues) 
 
 * Tuğrul Hakan Gençtürk [@tuhage](https://www.github.com/tuhage)
 * Hüseyin Can Kalçık [@huseyin4334](https://www.github.com/huseyin4334)
