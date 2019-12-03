@@ -43,7 +43,7 @@ pip install requirements.txt / pip3 install requirements.txt #OSX
 
 ### License
 
-* This project is licensed with the **GPL v3** license and is fully open source. ![Project License GPLv3.](https://img.shields.io/badge/License-GPLv3-yellow) 
+* This project is licensed with the **GPL v3** license and is **Free Software**. ![Project License GPLv3.](https://img.shields.io/badge/License-GPLv3-yellow) 
 
 
 License details can be found on the [LICENSE](LICENSE) page.
