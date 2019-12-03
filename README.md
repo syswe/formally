@@ -25,6 +25,9 @@ Proje Python 3 ile gerçeklemlendiği için ekteki bağlılıklarla beraber uygu
 * [Scikit-Learn](https://scikit-learn.org/stable/)
 * [Flask](https://pythonspot.com/flask-web-app-with-python/) 
 
+Paket bağlılıkları, pip3 ile requirements.txt üzerinden otomatik kurulmaktadır.
+pip install requirements.txt / pip3 install requirements.txt 
+
 ### Geliştiriciler & Destek Verenler [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/arcanteus/formally/issues)
 
 * Tuğrul Hakan Gençtürk [@tuhage](https://www.github.com/tuhage)
