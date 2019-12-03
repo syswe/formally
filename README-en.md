@@ -1,5 +1,5 @@
 ![Formally Logo](https://i.hizliresim.com/dLAVlZ.jpg)
-## Formally - README ![Relative date](https://img.shields.io/date/1575193681?color=once&label=last-commit&logo=son-gelistirme)
+## Formally - README ![GitHub last commit](https://img.shields.io/github/last-commit/arcanteus/formally)
 *Formal/Informal Writing Classification System Turkish NLP Project*
 
 ### Description [![Inline docs](http://inch-ci.org/github/arcanteus/formally.svg?branch=master)](http://inch-ci.org/github/arcanteus/formally)
@@ -25,6 +25,7 @@ A web application interface is created via *HTML, CSS and Python [Flask](https:/
 * [NumPy](https://numpy.org/) ve [Pandas](https://pandas.pydata.org/) libraries
 * [Scikit-Learn](https://scikit-learn.org/stable/)
 * [Flask](https://pythonspot.com/flask-web-app-with-python/) 
+Dependencies can be auto-install with the requirements.txt (using pip3).
 
 ### Contributors [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/arcanteus/formally/issues) 
 
