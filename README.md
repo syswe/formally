@@ -41,6 +41,6 @@ pip install requirements.txt / pip3 install requirements.txt #OSX
 
 ### Lisans
 
-* Bu proje **GPL v3** lisansı ile lisanslanmış olup, tamamen **açık kaynak** kodludur. ![Project License GPLv3.](https://img.shields.io/badge/License-GPLv3-yellow) 
+* Bu proje **GPL v3** lisansı ile lisanslanmış olup, **Özgür Yazılımdır**. ![Project License GPLv3.](https://img.shields.io/badge/License-GPLv3-yellow) 
 
 Lisans detaylarını [LICENSE](LICENSE) sayfasından inceleyebilirsiniz.
