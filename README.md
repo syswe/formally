@@ -1,5 +1,5 @@
 ![Formally Logo](https://i.hizliresim.com/dLAVlZ.jpg)
-## Formally - Beni Oku ![Relative date](https://img.shields.io/date/1575193681?color=once&label=last-commit&logo=son-gelistirme)
+## Formally - Beni Oku ![GitHub last commit](https://img.shields.io/github/last-commit/arcanteus/formally)
 *Resmi ve resmi olmayan yazıları tanıyabilen Türkçe doğal dil işleme projesi*
 
 ### Açıklama [![Inline docs](http://inch-ci.org/github/arcanteus/formally.svg?branch=master)](http://inch-ci.org/github/arcanteus/formally)
