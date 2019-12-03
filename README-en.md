@@ -25,7 +25,12 @@ A web application interface is created via *HTML, CSS and Python [Flask](https:/
 * [NumPy](https://numpy.org/) ve [Pandas](https://pandas.pydata.org/) libraries
 * [Scikit-Learn](https://scikit-learn.org/stable/)
 * [Flask](https://pythonspot.com/flask-web-app-with-python/) 
-Dependencies can be auto-install with the requirements.txt (using pip3).
+Dependencies can auto-install with the requirements.txt (using pip3).
+```python
+pip install requirements.txt / pip3 install requirements.txt #OSX
+```
+
+
 
 ### Contributors [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/arcanteus/formally/issues) 
 
