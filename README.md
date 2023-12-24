@@ -35,7 +35,7 @@ pip install requirements.txt / pip3 install requirements.txt #OSX
 * Tuğrul Hakan Gençtürk [@tuhage](https://www.github.com/tuhage)
 * Hüseyin Can Kalçık [@huseyin4334](https://www.github.com/huseyin4334)
 * Görkem Temizel [@MrFinchh](https://www.github.com/MrFinchh)
-* Canberk Duman [@cnbrkdmn](https://www.github.com/cnbrkdmn)
+* DevopSWE [@devopswe](https://www.github.com/devopswe)
 
 
 
